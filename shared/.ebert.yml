@@ -1,0 +1,3 @@
+engines:
+  reek:
+    enabled: true
